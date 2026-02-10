@@ -1,7 +1,6 @@
 # stone-paper-scissors-python
 Stone Paper Scissors game built using Python
 
-# Stone Paper Scissors 🎮
 A simple command-line Stone Paper Scissors game built using Python.
 
 ## Features
@@ -9,7 +8,7 @@ A simple command-line Stone Paper Scissors game built using Python.
 - Random computer choice
 - Simple and beginner-friendly logic
 
-## Technology Used
+## Technology used
 - Python
 
 ## Purpose
